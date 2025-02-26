@@ -8,7 +8,7 @@ int main() {
 
     float X = A + B;
 
-    printf("A = %.0f", X);  
+    printf("A = %.2f", X);  
 
     return 0;
 }
