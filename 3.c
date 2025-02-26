@@ -3,12 +3,13 @@
 
 int main(){
     
-    float raio = 5;
-    float n = 3.14159;
+    double raio = 5;
+    double n = 3.14159;
 
-    float area = n * pow (raio, 2); //calcular raio
+    scanf("%lf", &raio);
+    double area = n * pow (raio, 2); //calcular raio
 
-    printf("A = %f", area);
+    printf("A = %lf", area);
 
     return 0;
 }
