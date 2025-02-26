@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
     float A;
     float B;
 
@@ -8,7 +8,7 @@ int main(){
 
     float X = A + B;
 
-    printf("resultado: %.0f", X);  
+    printf("A = %.0f", X);  
 
     return 0;
 }
