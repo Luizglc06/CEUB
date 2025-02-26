@@ -4,7 +4,7 @@
 int main(){
     
     float raio = 5;
-    float n = 3;
+    float n = 3.14159;
 
     float area = n * pow (raio, 2); //calcular raio
 
