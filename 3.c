@@ -1,14 +1,14 @@
 #include <stdio.h>
+#include <math.h>
 
-int main() {
-    float A;
-    float B;
+int main(){
+    
+    float raio = 5;
+    float n = 3;
 
-    scanf("%f %f", &A, &B);
+    float area = n * pow (raio, 2); //calcular raio
 
-    float X = A + B;
-
-    printf("A = %.2f", X);  
+    printf("A = %f", area);
 
     return 0;
 }
