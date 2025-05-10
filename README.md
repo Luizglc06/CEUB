@@ -1,4 +1,4 @@
-# 📝Atividades Feitas Em Sala 
+# 📝Atividades Acadêmicas 
 Este repositório reúne os códigos e projetos desenvolvidos ao longo das disciplinas cursadas na minha graduação.
 ---
 Matérias:
