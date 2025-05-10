@@ -1,5 +1,5 @@
 # 📝Atividades Feitas Em Sala 
-Este repositório contém os códigos e projetos que desenvolvi durante a disciplina de Banco de Dados da minha faculdade.
+Este repositório contém os códigos e projetos que desenvolvi durante as aulas da minha faculdade.
 ---
 Matérias:
 - Banco de Dados
